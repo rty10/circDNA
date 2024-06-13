@@ -3,10 +3,12 @@ This repository holds a Python3 script and examples used to generate a circular 
 
 ---
 
-## Question: What makes it a "circle"
+## Question: What makes it a "circle"?
+
 A circular model of DNA is defined as being "covalently closed". 
 ![image ](./assets/_images/planar_circle_basic.png)
 DNA has two antiparallel chains: the 'coding' strand and the 'complementary' or 'anti-coding' strand. Both strands are read from the 5' to 3' direction, where the prime-notation refers to the carbon atoms on the deoxyribose sugars that are attached to phosphate groups along the chains.
+
 ---
 
 ## Common Software used
@@ -15,6 +17,7 @@ The software used in my research includes:
 - PyMol 2.X
 - 3DNA[http://web.x3DNA.org]
 - emDNA[https://nicocvn.github.io/emDNA/]
+
 ---
 
 ## Reference
