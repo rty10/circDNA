@@ -1,0 +1,14 @@
+name: circdna
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter 
+  - notebook = 7.2
+  - matplotlib = 3.8
+  - pandas = 2.2
+  - pip = 24.0
+  - python = 3.10
+  - scikit-learn = 1.4
+  - scipy = 1.14
+  - seaborn = 0.13
