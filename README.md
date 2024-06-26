@@ -43,7 +43,7 @@ For example: `$ python3 planar_circle_generator.py --length 100 --output-name te
 
 - *Result*:
 Below should be a 100-bp planar circle generated from the web3DNA server.
-![image](./assets/_images/test_images.png)
+![image ](./assets/_images/test_images.png)
 
 Congrats! Now you can make more circles as needed. You can customize using software such as emDNA[https://nicocvn.github.io/emDNA/].
 
