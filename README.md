@@ -53,11 +53,11 @@ Congrats! Now you can make more circles as needed. You can customize using softw
 
 ## Common Software used
 The software and web servers used includes:
-- Python3.X
-- Jupyter Notebooks
+- Python3.X (here, 3.10)
+- Jupyter Notebooks (use of IDEs such as Visual Studio Code will also work)
 - PyMol 2.X
-- 3DNA[http://web.x3DNA.org]
-- emDNA[https://nicocvn.github.io/emDNA/]
+- web3DNA [http://web.x3DNA.org]
+- emDNA [https://nicocvn.github.io/emDNA/]
 
 ---
 
