@@ -28,7 +28,7 @@ DNA has two antiparallel chains: the 'coding' strand and the 'complementary' or 
 CLI commands & flags: 
     - long:      `$ python3 planar_circle_generator.py --length ... --rise ... --bp-per-turn ... --seq ... --output-name ...`
     - shortened: `$ python3 planar_circle_generator.py -l ... -r ... -t ... -s ... -o ...`
-    - *note* not all commands are required. The `seq`, `rise`, and `bp-per-turn` flags default to all dA residues, 3.400-\AA, and 10.5-bp/turn, respectively. 
+    - *note* not all commands are required. The `seq`, `rise`, and `bp-per-turn` flags default to all dA residues, 3.400-$$1\overset{\circ}{A}$$, and 10.5-bp/turn, respectively. 
 For example: `$ python3 planar_circle_generator.py --length 100 --output-name test_circ`
 
 
