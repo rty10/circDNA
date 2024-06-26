@@ -1,5 +1,5 @@
 # circDNA
-This repository holds a Python3 script and examples used to generate a circular fragment model of DNA.
+This repository contains a Python3 script and examples used to generate a circular fragment model of DNA.
 
 ---
 
@@ -13,7 +13,7 @@ DNA has two antiparallel chains: the 'coding' strand and the 'complementary' or 
 
 ## Getting Started
 
-*This work is done in a terminal or command line application.*
+*This work is done with Python3 in a terminal or command line application.*
 
 - *Downloading*: Download the Python3 script located in the `circle_generator_script` directory. 
     - You can make a single copy in one standard directory or make multiple copies and place them in directories as you need them. 
