@@ -40,7 +40,7 @@ For example: `$ python3 planar_circle_generator.py --length 100 --output-name te
     - Deselect the "Backbone geometry optimization" radial button found to the right of the blue "Build Model" button.
     - Select the "Build Model" button.
     - Under the top 2D image select the "Download the rebuild PDB file" hyperlink.
-    - (*optional*) Locate this downloaded file and rename/move as needed.
+    - (*optional*) Locate this downloaded file and rename/move as needed. You can also verify your output with the files located in "assets/initial_test_files".
 
 - *Result*:
 Below should be a 100-bp planar circle generated from the web3DNA server.
