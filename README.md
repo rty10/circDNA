@@ -11,6 +11,12 @@ DNA has two antiparallel chains: the 'coding' strand and the 'complementary' or 
 
 ---
 
+## How to Use this Repo
+
+This repository is designed to be a training site. Therefore, I would not suggest forking this directory; rather just download the files and directories locally and use from there.
+
+---
+
 ## Getting Started
 
 *This work is done with Python3 in a terminal or command line application.*
